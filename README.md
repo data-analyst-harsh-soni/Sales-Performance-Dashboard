@@ -14,7 +14,7 @@ The dashboard transforms raw transactional data into actionable insights using i
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](image_1f90af.jpg)
+![Dashboard Screenshot](Dashboard.png)
 *(Note: This is a static preview. The actual file is interactive!)*
 
 ---
